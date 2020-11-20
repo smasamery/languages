@@ -9,3 +9,8 @@ python
 c#
 C++
 
+New languages:
+Ruby
+hasckel
+AI
+
