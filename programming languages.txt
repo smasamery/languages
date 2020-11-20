@@ -2,3 +2,10 @@ Old languages
 Cobol
 Fortran
 Pascal
+
+OOP
+java
+python
+c#
+C++
+
